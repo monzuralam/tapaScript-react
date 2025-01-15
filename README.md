@@ -30,9 +30,15 @@ Follow these steps to set up the project:
    ```
 
 ## UX Design Diagram
+<img width="1461" alt="cars" src="https://github.com/user-attachments/assets/09789d9c-21b2-4186-b3c7-34eb387465de" />
 
 ## Component Breakdown Diagram
+![component-breakdown](https://github.com/user-attachments/assets/77ee55de-4d2e-42bd-b5a4-7acfb99db560)
 
 ## Component Hierarchy diagram
+![cars-component-tree](https://github.com/user-attachments/assets/8b32a2da-413e-49c7-aa7d-c6d8efe4c2d0)
 
 ## React Dev Tools Screenshot
+![react-dev-tools](https://github.com/user-attachments/assets/3c3ae008-e5fd-47d5-8bb8-122abd51dbc4)
+
+## Live Link
