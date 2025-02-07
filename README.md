@@ -1,6 +1,7 @@
 # Cars
 
 **Cars** is a basic React.js project that demonstrates how to break down a design into reusable components while maintaining a top-level tree hierarchy.
+Here, i use state & props to manage check premium car & search functionality.
 
 ---
 
@@ -14,7 +15,7 @@ Follow these steps to set up the project:
    ```
 2. Switch to the `cars` branch:
    ```bash
-   git checkout cars
+   git checkout cars-state-props
    ```
 3. Install the dependencies using Yarn:
    ```bash
@@ -36,10 +37,10 @@ Follow these steps to set up the project:
 ![component-breakdown](https://github.com/user-attachments/assets/77ee55de-4d2e-42bd-b5a4-7acfb99db560)
 
 ## Component Hierarchy diagram
-![cars-component-tree](https://github.com/user-attachments/assets/8b32a2da-413e-49c7-aa7d-c6d8efe4c2d0)
+![component-tree](https://github.com/user-attachments/assets/3636a34e-025c-40b7-97d5-823cc6686f2e)
 
 ## React Dev Tools Screenshot
 ![react-dev-tools](https://github.com/user-attachments/assets/3c3ae008-e5fd-47d5-8bb8-122abd51dbc4)
 
 ## Live Link
-https://tapascript-cars.onrender.com
+https://tapascript-cars-state-props.onrender.com 
